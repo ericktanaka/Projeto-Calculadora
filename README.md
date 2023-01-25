@@ -1,4 +1,5 @@
 <h1>Projeto calculadora</h1>
+<p>Neste projeto criei uma calculadora.
 <br>
 <h2>Tecnologias utilizadas</h2>
 <p>- HTML</p>
